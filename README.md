@@ -1,0 +1,1 @@
+# GAME_PY_CHECK_IO
